@@ -1,0 +1,22 @@
+{
+  "name": "newrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivanshu121211/newrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivanshu121211/newrepo/issues"
+  },
+  "homepage": "https://github.com/shivanshu121211/newrepo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
